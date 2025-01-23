@@ -58,28 +58,6 @@ Password encryption using BCrypt
 CSRF protection enabled
 JWT token-based authentication
 
-Project Structure
-Copysrc/
-├── main/
-│   ├── java/
-│   │   └── com/jobportal/
-│   │       ├── config/
-│   │       ├── controller/
-│   │       ├── entity/
-│   │       ├── repository/
-│   │       ├── service/
-│   │       └── util/
-│   ├── resources/
-│   │   ├── static/
-│   │   │   ├── assets/
-│   │   │   ├── css/
-│   │   │   ├── fonts/
-│   │   │   └── js/
-│   │   │   ├── summernote/
-│   │   └── templates/
-└── test/
-    └── java/
-        └── com/jobportal/
 Testing
 
 Unit Tests: JUnit
